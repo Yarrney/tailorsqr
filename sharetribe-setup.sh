@@ -1,0 +1,1 @@
+# Sharetribe setup script
